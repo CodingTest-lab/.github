@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 지각하면 쿠우쿠우 간다
-
+송 - 2000
+양 - 2000
 <!--
 
 **Here are some ideas to get you started:**
