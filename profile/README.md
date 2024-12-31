@@ -2,8 +2,9 @@
 
 지각하면 쿠우쿠우 간다
 </br>
-송 - 3000 </br>
+송 - 4000 </br>
 양 - 2000 </br>
+김 - 2000 </br>
 <!--
 
 **Here are some ideas to get you started:**
